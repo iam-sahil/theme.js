@@ -1,0 +1,10 @@
+:root[data-theme="dark"]{
+    --text-color: #111a0a;
+    --back-color: #f7fbf4;
+    --accent-color: #b3d798;
+}
+:root[data-theme="light"]{
+    --text-color: #fdfdfc;
+    --back-color: #14150a;
+    --accent-color: #a7b054;
+}
