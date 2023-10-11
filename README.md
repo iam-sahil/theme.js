@@ -55,10 +55,9 @@ document.addEventListener('keydown', event => {
     --variable:
     --variable:
 }
-// useful color combinations can be sourced from:
-// https://www.realtimecolors.com
-
 ```
+// useful color combinations can be sourced from:
+https://www.realtimecolors.com
 
 
 ## Feedback
